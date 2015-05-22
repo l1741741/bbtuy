@@ -14,6 +14,7 @@
 		C24CD6911B0EBCCE00761D79 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C24CD6901B0EBCCE00761D79 /* Images.xcassets */; };
 		C24CD6941B0EBCCE00761D79 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C24CD6921B0EBCCE00761D79 /* LaunchScreen.xib */; };
 		C24CD6A01B0EBCCE00761D79 /* AyiguTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C24CD69F1B0EBCCE00761D79 /* AyiguTests.m */; };
+		C24CD6AB1B0EBF5200761D79 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C24CD6AA1B0EBF5200761D79 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		C24CD6991B0EBCCE00761D79 /* AyiguTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AyiguTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C24CD69E1B0EBCCE00761D79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C24CD69F1B0EBCCE00761D79 /* AyiguTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AyiguTests.m; sourceTree = "<group>"; };
+		C24CD6A91B0EBF5100761D79 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		C24CD6AA1B0EBF5200761D79 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				C24CD6881B0EBCCE00761D79 /* AppDelegate.m */,
 				C24CD68A1B0EBCCE00761D79 /* ViewController.h */,
 				C24CD68B1B0EBCCE00761D79 /* ViewController.m */,
+				C24CD6A91B0EBF5100761D79 /* TestViewController.h */,
+				C24CD6AA1B0EBF5200761D79 /* TestViewController.m */,
 				C24CD68D1B0EBCCE00761D79 /* Main.storyboard */,
 				C24CD6901B0EBCCE00761D79 /* Images.xcassets */,
 				C24CD6921B0EBCCE00761D79 /* LaunchScreen.xib */,
@@ -221,6 +226,7 @@
 			files = (
 				C24CD68C1B0EBCCE00761D79 /* ViewController.m in Sources */,
 				C24CD6891B0EBCCE00761D79 /* AppDelegate.m in Sources */,
+				C24CD6AB1B0EBF5200761D79 /* TestViewController.m in Sources */,
 				C24CD6861B0EBCCE00761D79 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +420,7 @@
 				C24CD6A51B0EBCCE00761D79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C24CD6A61B0EBCCE00761D79 /* Build configuration list for PBXNativeTarget "AyiguTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +429,7 @@
 				C24CD6A81B0EBCCE00761D79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

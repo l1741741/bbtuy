@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EFA4DF2F-0009-455D-9BE1-DBFB84C69254</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ayigu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F77E1976C71D0F870F465126E1D204187EFCD65</key>
+		<string>https://github.com/l1741741/bbtuy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ayigu/Ayigu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F77E1976C71D0F870F465126E1D204187EFCD65</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/l1741741/bbtuy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F77E1976C71D0F870F465126E1D204187EFCD65</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F77E1976C71D0F870F465126E1D204187EFCD65</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bbtuy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
